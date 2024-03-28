@@ -1,0 +1,52 @@
+[
+  {
+    "name": "fruits",
+    "title": "Fruits",
+    "image": "https://i.ibb.co/2drbKRp/2-2-2-3foodgroups-fruits-detailfeature.jpg"
+  },
+  {
+    "name": "root-vegetables",
+    "title": "Root Vegetables",
+    "image": "https://i.ibb.co/P1VR4DF/69773635.webp"
+  },
+  {
+    "name": "leafy-greens",
+    "title": "Leafy Greens",
+    "image": "https://i.ibb.co/ZzYrV3L/h0918g16207257581285.jpg"
+  },
+  {
+    "name": "cruciferous-vegetables",
+    "title": "Cruciferous Vegetables",
+    "image": "https://i.ibb.co/QHqxrX3/Social-Cruciferous-veg.jpg"
+  },
+  {
+    "name": "bulb-and-stem",
+    "title": "Bulb and Stem Vegetables",
+    "image": "https://i.ibb.co/8X36xGS/1905-A-Introduction-To-Chinese-Greens-016.jpg"
+  },
+  {
+    "name": "legumes",
+    "title": "Legumes",
+    "image": "https://i.ibb.co/tqkvMSq/download-7.jpg"
+  },
+  {
+    "name": "squashes",
+    "title": "Squashes",
+    "image": "https://i.ibb.co/s5WCCXw/images-4.jpg"
+  },
+  {
+    "name": "alliums",
+    "title": "Alliums",
+    "image": "https://i.ibb.co/SdqjvQM/Getty-Images-145661145-scaled-e1596544120436.jpg"
+  },
+  {
+    "name": "peppers",
+    "title": "Peppers",
+    "image": "https://i.ibb.co/4pbk5LP/download-8.jpg"
+  },
+  {
+    "name": "herbs-and-Spices",
+    "title": "Herbs and Spices",
+    "image": "https://i.ibb.co/Hth3GLx/National-Herbs-and-Spices-Day-1-1200x834.jpg"
+  }
+]

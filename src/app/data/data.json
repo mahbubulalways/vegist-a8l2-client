@@ -1,0 +1,262 @@
+[
+  {
+    "vegetable_name": "Tomatoes",
+    "image": "https://i.ibb.co/SKxMTz6/Gourmet-Tomato-600x600.webp",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi accusantium doloremque reprehenderit architecto consectetur tempore repellat similique officiis. Quibusdam saepe temporibus illo eveniet delectus rem est quidem. Consectetur, illum nisi. Lorem ipsum dolor sit amet consectetur adipisicing elit. A, perferendis. Illo architecto repellendus cum ut consequatur, atque ratione reiciendis accusamus magni numquam placeat dolorum. Omnis velit cum aliquam? Modi reprehenderit placeat officia! Velit impedit debitis mollitia. Minima libero officia blanditiis?",
+    "rating": 4,
+    "review": "32",
+    "images": [
+      "https://i.ibb.co/SKxMTz6/Gourmet-Tomato-600x600.webp",
+      "https://i.ibb.co/7yHcPKV/612x612-4885-33d664f3f240d5331b398bbe4ee99f8f-1610031569istockphoto466175630612x.jpg",
+      "https://i.ibb.co/XLJhY20/download-5.png"
+    ],
+    "brand": "Fresh Farms",
+    "price": 120,
+    "quantity_available": 150,
+    "discount": 5,
+    "categoryName": "Squashes",
+    "category": "squashes",
+    "origin": "Local",
+    "organic": true,
+    "flashSale": true
+  },
+  {
+    "vegetable_name": "Bell Pepper ",
+    "image": "https://i.ibb.co/GHmYVB6/5b34f624e54acd7021de4922-redbellpepper-1.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi accusantium doloremque reprehenderit architecto consectetur tempore repellat similique officiis. Quibusdam saepe temporibus illo eveniet delectus rem est quidem. Consectetur, illum nisi. Lorem ipsum dolor sit amet consectetur adipisicing elit. A, perferendis. Illo architecto repellendus cum ut consequatur, atque ratione reiciendis accusamus magni numquam placeat dolorum. Omnis velit cum aliquam? Modi reprehenderit placeat officia! Velit impedit debitis mollitia. Minima libero officia blanditiis?",
+    "rating": 4,
+    "review": "32",
+    "images": [
+      "https://i.ibb.co/GHmYVB6/5b34f624e54acd7021de4922-redbellpepper-1.jpg",
+      "https://i.ibb.co/y80mBsK/licensed-image.jpg"
+    ],
+    "brand": "Fresh Farms",
+    "price": 150,
+    "quantity_available": 150,
+    "discount": 6,
+    "categoryName": "Peppers",
+    "category": "peppers",
+    "origin": "Local",
+    "organic": true,
+    "flashSale": true
+  },
+  {
+    "vegetable_name": "carrort",
+    "image": "https://i.ibb.co/ssKRMz3/5365.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi accusantium doloremque reprehenderit architecto consectetur tempore repellat similique officiis. Quibusdam saepe temporibus illo eveniet delectus rem est quidem. Consectetur, illum nisi. Lorem ipsum dolor sit amet consectetur adipisicing elit. A, perferendis. Illo architecto repellendus cum ut consequatur, atque ratione reiciendis accusamus magni numquam placeat dolorum. Omnis velit cum aliquam? Modi reprehenderit placeat officia! Velit impedit debitis mollitia. Minima libero officia blanditiis?",
+    "rating": 3,
+    "review": "32",
+    "images": [
+      "https://i.ibb.co/ssKRMz3/5365.jpg",
+      "https://i.ibb.co/YjWVYb8/benefits-of-carrots.jpg"
+    ],
+    "brand": "Fresh Farms",
+    "price": 130,
+    "quantity_available": 150,
+    "discount": 3,
+    "categoryName": "Root Vegetables",
+    "category": "root-vegetables",
+    "origin": "Local",
+    "organic": true,
+    "flashSale": true
+  },
+  {
+    "vegetable_name": "Cucumber",
+    "image": "https://i.ibb.co/jM09FV7/Cucumber-1600x.webp",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi accusantium doloremque reprehenderit architecto consectetur tempore repellat similique officiis. Quibusdam saepe temporibus illo eveniet delectus rem est quidem. Consectetur, illum nisi. Lorem ipsum dolor sit amet consectetur adipisicing elit. A, perferendis. Illo architecto repellendus cum ut consequatur, atque ratione reiciendis accusamus magni numquam placeat dolorum. Omnis velit cum aliquam? Modi reprehenderit placeat officia! Velit impedit debitis mollitia. Minima libero officia blanditiis?",
+    "rating": 3,
+    "review": "18",
+    "images": [
+      "https://i.ibb.co/jM09FV7/Cucumber-1600x.webp",
+      "https://i.ibb.co/wWhP3Pf/0000000004062.webp",
+      "https://i.ibb.co/wKX3JKd/Cucumber-Supremo-Hybrid1-Burpee.jpg"
+    ],
+    "brand": "Fresh Farms",
+    "price": 140,
+    "quantity_available": 150,
+    "discount": 3,
+    "categoryName": "Cruciferous Vegetables",
+    "category": "cruciferous-vegetables",
+    "origin": "Local",
+    "organic": true,
+    "flashSale": true
+  },
+  {
+    "vegetable_name": "Green leaf",
+    "image": "https://i.ibb.co/n6dfT3C/unnamed-file-e1490783428264.webp",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi accusantium doloremque reprehenderit architecto consectetur tempore repellat similique officiis. Quibusdam saepe temporibus illo eveniet delectus rem est quidem. Consectetur, illum nisi. Lorem ipsum dolor sit amet consectetur adipisicing elit. A, perferendis. Illo architecto repellendus cum ut consequatur, atque ratione reiciendis accusamus magni numquam placeat dolorum. Omnis velit cum aliquam? Modi reprehenderit placeat officia! Velit impedit debitis mollitia. Minima libero officia blanditiis?",
+    "rating": 3,
+    "review": "18",
+    "images": [
+      "https://i.ibb.co/n6dfT3C/unnamed-file-e1490783428264.webp",
+      "https://i.ibb.co/xfP7gFZ/leafy-vegetables-blog-article.webp"
+    ],
+    "brand": "Fresh Farms",
+    "price": 70,
+    "quantity_available": 150,
+    "discount": 2,
+    "categoryName": "Leafy Greens",
+    "category": "leafy-greens",
+    "origin": "Local",
+    "organic": true,
+    "flashSale": true
+  },
+  {
+    "vegetable_name": "Garlic",
+    "image": "https://i.ibb.co/S5FHrg2/fresh-garlic-500x500.webp",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi accusantium doloremque reprehenderit architecto consectetur tempore repellat similique officiis. Quibusdam saepe temporibus illo eveniet delectus rem est quidem. Consectetur, illum nisi. Lorem ipsum dolor sit amet consectetur adipisicing elit. A, perferendis. Illo architecto repellendus cum ut consequatur, atque ratione reiciendis accusamus magni numquam placeat dolorum. Omnis velit cum aliquam? Modi reprehenderit placeat officia! Velit impedit debitis mollitia. Minima libero officia blanditiis?",
+    "rating": 3,
+    "review": "18",
+    "images": [
+      "https://i.ibb.co/S5FHrg2/fresh-garlic-500x500.webp",
+      "https://i.ibb.co/4Swx2B9/health-benefits-of-garlic-2000-482c21fd2d154102a9b7a46ccb34e70a.jpg"
+    ],
+    "brand": "Fresh Farms",
+    "price": 100,
+    "quantity_available": 150,
+    "discount": 2,
+    "categoryName": "Alliums",
+    "category": "alliums",
+    "origin": "Local",
+    "organic": true,
+    "flashSale": true
+  },
+  {
+    "vegetable_name": "Broccoli",
+    "image": "https://i.ibb.co/GHMjyVT/shutterstock-294838064-min.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi accusantium doloremque reprehenderit architecto consectetur tempore repellat similique officiis. Quibusdam saepe temporibus illo eveniet delectus rem est quidem. Consectetur, illum nisi. Lorem ipsum dolor sit amet consectetur adipisicing elit. A, perferendis. Illo architecto repellendus cum ut consequatur, atque ratione reiciendis accusamus magni numquam placeat dolorum. Omnis velit cum aliquam? Modi reprehenderit placeat officia! Velit impedit debitis mollitia. Minima libero officia blanditiis?",
+    "rating": 5,
+    "review": "18",
+    "images": [
+      "https://i.ibb.co/GHMjyVT/shutterstock-294838064-min.jpg",
+      "https://i.ibb.co/yyGn3VH/how-to-store-broccoli-in-the-refrigerator-1696700248.jpg",
+      "https://i.ibb.co/y80mBsK/licensed-image.jpg"
+    ],
+    "brand": "Fresh Farms",
+    "price": 110,
+    "quantity_available": 150,
+    "discount": 4,
+    "categoryName": "Cruciferous Vegetables",
+    "category": "cruciferous-vegetables",
+    "origin": "Local",
+    "organic": true,
+    "flashSale": true
+  },
+  {
+    "vegetable_name": "Squash",
+    "image": "https://i.ibb.co/LQbJL12/variety-of-autumn-squashes-on-white-background-royalty-free-image-1597351254.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi accusantium doloremque reprehenderit architecto consectetur tempore repellat similique officiis. Quibusdam saepe temporibus illo eveniet delectus rem est quidem. Consectetur, illum nisi. Lorem ipsum dolor sit amet consectetur adipisicing elit. A, perferendis. Illo architecto repellendus cum ut consequatur, atque ratione reiciendis accusamus magni numquam placeat dolorum. Omnis velit cum aliquam? Modi reprehenderit placeat officia! Velit impedit debitis mollitia. Minima libero officia blanditiis?",
+    "rating": 3,
+    "review": "18",
+    "images": [
+      "https://i.ibb.co/LQbJL12/variety-of-autumn-squashes-on-white-background-royalty-free-image-1597351254.jpg",
+      "https://i.ibb.co/KLT0HvY/types-of-squash-64ca7e3b3e3a1.jpg"
+    ],
+    "brand": "Fresh Farms",
+    "price": 110,
+    "quantity_available": 150,
+    "discount": 4,
+    "categoryName": "Squashes",
+    "category": "squashes",
+    "origin": "Local",
+    "organic": true,
+    "flashSale": false
+  },
+  {
+    "vegetable_name": "Legumes",
+    "image": "https://ibb.co/CQStJx0",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi accusantium doloremque reprehenderit architecto consectetur tempore repellat similique officiis. Quibusdam saepe temporibus illo eveniet delectus rem est quidem. Consectetur, illum nisi. Lorem ipsum dolor sit amet consectetur adipisicing elit. A, perferendis. Illo architecto repellendus cum ut consequatur, atque ratione reiciendis accusamus magni numquam placeat dolorum. Omnis velit cum aliquam? Modi reprehenderit placeat officia! Velit impedit debitis mollitia. Minima libero officia blanditiis?",
+    "rating": 2,
+    "review": "18",
+    "images": ["https://ibb.co/CQStJx0", "https://ibb.co/CQStJx0"],
+    "brand": "Fresh Farms",
+    "price": 60,
+    "quantity_available": 150,
+    "discount": 2,
+    "categoryName": "Legumes",
+    "category": "legumes",
+    "origin": "Local",
+    "organic": true,
+    "flashSale": false
+  },
+  {
+    "vegetable_name": "Watermelon",
+    "image": "https://i.ibb.co/CKCvVqQ/0000000003421.webp",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi accusantium doloremque reprehenderit architecto consectetur tempore repellat similique officiis. Quibusdam saepe temporibus illo eveniet delectus rem est quidem. Consectetur, illum nisi. Lorem ipsum dolor sit amet consectetur adipisicing elit. A, perferendis. Illo architecto repellendus cum ut consequatur, atque ratione reiciendis accusamus magni numquam placeat dolorum. Omnis velit cum aliquam? Modi reprehenderit placeat officia! Velit impedit debitis mollitia. Minima libero officia blanditiis?",
+    "rating": 5,
+    "review": "40",
+    "images": [
+      "https://i.ibb.co/CKCvVqQ/0000000003421.webp",
+      "https://i.ibb.co/MNgSV1X/Watermelon-316145534.jpg"
+    ],
+    "brand": "Fresh Farms",
+    "price": 120,
+    "quantity_available": 150,
+    "discount": 4,
+    "categoryName": "Fruits",
+    "category": "fruits",
+    "origin": "Local",
+    "organic": true,
+    "flashSale": false
+  },
+  {
+    "vegetable_name": "Onion",
+    "image": "https://i.ibb.co/VmzG18Z/41-Pi5dfv-Oo-L.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi accusantium doloremque reprehenderit architecto consectetur tempore repellat similique officiis. Quibusdam saepe temporibus illo eveniet delectus rem est quidem. Consectetur, illum nisi. Lorem ipsum dolor sit amet consectetur adipisicing elit. A, perferendis. Illo architecto repellendus cum ut consequatur, atque ratione reiciendis accusamus magni numquam placeat dolorum. Omnis velit cum aliquam? Modi reprehenderit placeat officia! Velit impedit debitis mollitia. Minima libero officia blanditiis?",
+    "rating": 2,
+    "review": "18",
+    "images": [
+      "https://i.ibb.co/VmzG18Z/41-Pi5dfv-Oo-L.jpg",
+      "https://i.ibb.co/VmzG18Z/41-Pi5dfv-Oo-L.jpg"
+    ],
+    "brand": "Fresh Farms",
+    "price": 100,
+    "quantity_available": 150,
+    "discount": 2,
+    "categoryName": "Alliums",
+    "category": "alliums",
+    "origin": "Local",
+    "organic": true,
+    "flashSale": true
+  },
+  {
+    "vegetable_name": "Onion",
+    "image": "https://i.ibb.co/VmzG18Z/41-Pi5dfv-Oo-L.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi accusantium doloremque reprehenderit architecto consectetur tempore repellat similique officiis. Quibusdam saepe temporibus illo eveniet delectus rem est quidem. Consectetur, illum nisi. Lorem ipsum dolor sit amet consectetur adipisicing elit. A, perferendis. Illo architecto repellendus cum ut consequatur, atque ratione reiciendis accusamus magni numquam placeat dolorum. Omnis velit cum aliquam? Modi reprehenderit placeat officia! Velit impedit debitis mollitia. Minima libero officia blanditiis?",
+    "rating": 3,
+    "review": "18",
+    "images": [
+      "https://i.ibb.co/VmzG18Z/41-Pi5dfv-Oo-L.jpg",
+      "https://i.ibb.co/VmzG18Z/41-Pi5dfv-Oo-L.jpg"
+    ],
+    "brand": "Fresh Farms",
+    "price": 100,
+    "quantity_available": 150,
+    "discount": 2,
+    "categoryName": "Alliums",
+    "category": "alliums",
+    "origin": "Local",
+    "organic": true,
+    "flashSale": true
+  },
+  {
+    "vegetable_name": "Eggplant",
+    "image": "https://i.ibb.co/K0PTrXz/intro-1658245418.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi accusantium doloremque reprehenderit architecto consectetur tempore repellat similique officiis. Quibusdam saepe temporibus illo eveniet delectus rem est quidem. Consectetur, illum nisi. Lorem ipsum dolor sit amet consectetur adipisicing elit. A, perferendis. Illo architecto repellendus cum ut consequatur, atque ratione reiciendis accusamus magni numquam placeat dolorum. Omnis velit cum aliquam? Modi reprehenderit placeat officia! Velit impedit debitis mollitia. Minima libero officia blanditiis?",
+    "rating": 3,
+    "review": "18",
+    "images": [
+      "https://i.ibb.co/K0PTrXz/intro-1658245418.jpg",
+      "https://i.ibb.co/N1z9B9Q/1811-done-grande.webp"
+    ],
+    "brand": "Fresh Farms",
+    "price": 100,
+    "quantity_available": 150,
+    "discount": 2,
+    "categoryName": "Cruciferous Vegetables",
+    "category": "cruciferous-vegetables",
+    "origin": "Local",
+    "organic": true,
+    "flashSale": true
+  }
+]
