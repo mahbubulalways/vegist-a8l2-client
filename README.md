@@ -8,4 +8,5 @@
 - This project I develop with next js swiper js etc.
 
 - To run local machine first clone this repository and open with vs code then npm i command and add env variable then command npn run dev.
+- Project name : Vegist grocery shop
 - Live Url : https://vegist-grocery.vercel.app/
